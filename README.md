@@ -1,6 +1,5 @@
 ## Olá! Eu so o Danillo Alves
 
-- 🔭 Analista de suporte
 - 🌱 React.js
 
 <div style="display: inline_block"><br>
